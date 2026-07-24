@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Eduardo Morais, estudante de Ciências da Computação na Cruzeiro do Sul Virtual e entusiasta do desenvolvimento de software. Tenho experiência com Java e Spring Boot, além de conhecimentos em HTML, CSS e JavaScript. Utilizo Git e GitHub para controle de versão e já obtive certificação em Introdução a Cloud Services com AWS.<br><br>Atualmente, dedico meu tempo livre a projetos pessoais para aprimorar minhas habilidades e aprofundar meu conhecimento na área. Sempre em busca de aprendizado, estou comprometido em evoluir como desenvolvedor e contribuir para soluções inovadoras no mundo da tecnologia.</p>
+<p align="left">Sou Eduardo Morais, estudante de Ciências da Computação na Cruzeiro do Sul Virtual e especialista do desenvolvimento de software. Tenho experiência com Java e Spring Boot, além de conhecimentos em HTML, CSS e JavaScript. Utilizo Git e GitHub para controle de versão e já obtive certificação em Introdução a Cloud Services com AWS.<br><br>Atualmente, dedico meu tempo livre a projetos pessoais para aprimorar minhas habilidades e aprofundar meu conhecimento na área. Sempre em busca de aprendizado, estou comprometido em evoluir como desenvolvedor e contribuir para soluções inovadoras no mundo da tecnologia.</p>
 
 ###
 
